@@ -8,6 +8,7 @@ Welcome to our collaborative learning project! This repository contains JavaScri
 | ---- | ------------- | ------------------ | ------------------------------------- | ---------------------------------- |
 | 01   | Maryam,Uswa| Variables and Datatypes | [View PDF](https://drive.google.com/file/d/13mqx9_KKLV5aK1eEfuuJeofFaFrOiZi7/view?usp=sharing) | [Watch](https://drive.google.com/file/d/1bt-VSSbYoVVIzfVoLc9GJF1E5Q8MrmLQ/view?usp=sharing) |
 | 02   | Nubtahil , Aiman| Js operators | [View PDF]( https://drive.google.com/file/d/1H68cfeTeZxIcGoCXuyFtsqXVrBu_OgKl/view?usp=drive_link ) | [Watch](https://drive.google.com/file/d/1GOfjog0GuENxtaMmhpNmvud-THN86T07/view?usp=drive_link ) |
+| 03  | Zahida| Functions | [View PDF]( https://docs.google.com/presentation/d/1UO6JcxS4XKf4PtnaDo5TfCostCVBz6LWiQ57k4jIfEg/edit?slide=id.p#slide=id.p ) | [Watch](https://drive.google.com/file/d/1T7yjYR_Ox7NiHZ0Y6cJLvI5CdvUNI-l4/view?usp=sharing ) |
  
 
 📌 Add your PDF files inside a `/pdfs` folder and update the links accordingly.
