@@ -11,7 +11,7 @@ Welcome to our collaborative learning project! This repository contains JavaScri
 | 03  | Zahida| Functions | [View PDF]( https://docs.google.com/presentation/d/1UO6JcxS4XKf4PtnaDo5TfCostCVBz6LWiQ57k4jIfEg/edit?slide=id.p#slide=id.p ) | [Watch](https://drive.google.com/file/d/1T7yjYR_Ox7NiHZ0Y6cJLvI5CdvUNI-l4/view?usp=sharing ) |
  
 
-📌 Add your PDF files inside a `/pdfs` folder and update the links accordingly.
+| 04   | Memoona Khan| Js Conditional Statement and Loops | [View PDF]( https://docs.google.com/presentation/d/1UO6JcxS4XKf4PtnaDo5TfCostCVBz6LWiQ57k4jIfEg/edit?slide=id.p#slide=id.p ) | [Watch](https://drive.google.com/file/d/1luWb4hmahYVBxEJAPNKV16__pwKBWFgG/view?usp=drive_link ) | Add your PDF files inside a `/pdfs` folder and update the links accordingly.
 
 ## 🤝 How to Contribute
 
